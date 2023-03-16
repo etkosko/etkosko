@@ -11,10 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=etkosko&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=etkosko&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=etkosko&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=etkosko&icon=2&color=12)](https://visitcount.itsvg.in)
 

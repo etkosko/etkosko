@@ -5,7 +5,7 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/345220061948280833)](https://discord.com/users/345220061948280833)
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/etkosko/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/etkosko/) 
 
 
 # 💻 Tech Stack:

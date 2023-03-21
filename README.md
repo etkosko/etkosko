@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 Free member<br>👯 I’m looking to collaborate on Constructor Bot<br>🤝 I’m looking for help with MongoDB Node.js<br>🌱 I’m currently learning Node.js
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](github-readme-stats.vercel.app/api/top-langs?username=etkosko&layout=compact)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/etkosko/) 

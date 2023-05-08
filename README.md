@@ -2,7 +2,7 @@
 🔭 Free member<br>👯 I’m looking to collaborate on Constructor Bot<br>🤝 I’m looking for help with MongoDB Node.js<br>🌱 I’m currently learning Node.js
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/345220061948280833)
+[![Discord Presence](https://lanyard.cnrad.dev/api/345220061948280833)](https://discord.com/users/345220061948280833)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/etkosko/) 

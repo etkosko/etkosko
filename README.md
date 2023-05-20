@@ -1,7 +1,9 @@
 # 💫 About Me:
 🔭 Free member<br>👯 I’m looking to collaborate on Constructor Bot<br>🤝 I’m looking for help with MongoDB Node.js<br>🌱 I’m currently learning Node.js
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/345220061948280833?theme=dark)](https://discord.com/users/345220061948280833) [![Discord Bots](https://top.gg/api/widget/520886596715806721.svg)](https://top.gg/bot/520886596715806721)
+[![Discord Presence](https://lanyard.cnrad.dev/api/345220061948280833?theme=dark)](https://discord.com/users/345220061948280833) 
+
+[![Discord Bots](https://top.gg/api/widget/520886596715806721.svg)](https://top.gg/bot/520886596715806721)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/etkosko/) 

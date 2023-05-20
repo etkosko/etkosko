@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Free member<br>👯 I’m looking to collaborate on Constructor Bot<br>🤝 I’m looking for help with MongoDB Node.js<br>🌱 I’m currently learning Node.js
+17 years old Student
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/345220061948280833?theme=dark)](https://discord.com/users/345220061948280833) 
 

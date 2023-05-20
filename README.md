@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 Free member<br>👯 I’m looking to collaborate on Constructor Bot<br>🤝 I’m looking for help with MongoDB Node.js<br>🌱 I’m currently learning Node.js
 
-[![Discord Bots](https://top.gg/api/widget/520886596715806721.svg)(https://top.gg/bot/520886596715806721)
+[![Discord Bots](https://top.gg/api/widget/520886596715806721.svg)](https://top.gg/bot/520886596715806721)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/345220061948280833?theme=dark)](https://discord.com/users/345220061948280833)
 

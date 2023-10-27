@@ -48,6 +48,10 @@
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NodeJS-Dark.svg" width="48" height="48" alt="css" />
       <br>NodeJS
     </td>
+       <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/C.svg" width="48" height="48" alt="C" />
+      <br>C
+    </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
       <br>Rest API
@@ -69,6 +73,10 @@
       <br>ExpressJS
     </td>
     <tr>
+             <td align="center" width="96">
+            <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Bash-Dark.svg" width="48" height="48" alt="DC Bots" />
+            <br>Bash
+        </td>
         <td align="center" width="96">
             <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/DiscordBots.svg" width="48" height="48" alt="DC Bots" />
             <br>DC Bots

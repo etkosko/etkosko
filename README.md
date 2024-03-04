@@ -21,10 +21,8 @@
 </div>
 <p></p>
 <p align="justify">
-17 Years Old Young Junior Back-End Devleoper. You can visit my 
+17 Years Old Young Junior Back-End Devleoper.
 </p>
-
-- [Fiverr](https://www.fiverr.com/etkosko)
 
 ## My favorite tools and technologies ⚙️
 

@@ -66,11 +66,11 @@
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/ExpressJS-Dark.svg" width="48" height="48" alt="ExpressJS" />
       <br>ExpressJS
     </td>
-    <tr>
-             <td align="center" width="96">
+   <td align="center" width="96">
             <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Bash-Dark.svg" width="48" height="48" alt="DC Bots" />
             <br>Bash
         </td>
+    <tr> 
         <td align="center" width="96">
             <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/DiscordBots.svg" width="48" height="48" alt="DC Bots" />
             <br>DC Bots

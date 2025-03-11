@@ -20,9 +20,6 @@
 
 </div>
 <p></p>
-<p align="justify">
-17 Years Old Young Junior Back-End Devleoper.
-</p>
 
 ## My favorite tools and technologies ⚙️
 
